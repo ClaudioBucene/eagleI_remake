@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "projeto_redirect",
+    "slug": "projeto_redirect",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
